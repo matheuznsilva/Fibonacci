@@ -11,7 +11,7 @@
 |                                                    |
 | This repository contains Fibonacci algorithm in    |
 | three different languages, namely: C, Python       |
-| and JAVA.                                          |
+| and Prolog.                                        |
 +----------------------------------------------------+
 
 ```
